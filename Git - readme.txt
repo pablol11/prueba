@@ -21,6 +21,7 @@ GIT
 3) Crear un nuevo repositorio:
 
 4) Definir el Directorio de Trabajo
+
 5) Staging Index: es un area temporal, en donde indicaremos alli los archivos que llevaremos a través del commit.
 	Los pasos a realizar son:
 		1- Modificar archivos dentro del directorio de trabajo.
