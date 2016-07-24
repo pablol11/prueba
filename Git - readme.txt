@@ -74,7 +74,7 @@ GIT
 10) Examinando el registro:
 	Con el comando "git log" se examinan los distintos commit que han realizado.
 	Para ver el resumen de cada commit, ejecutamos el comando: "git log --oneline"
-	Con el comando "git log --online --decorate" 
+	Con el comando "git log --oneline --decorate" 
 	
 11) Creando Ramas:
 	Con el comando "git branch <nombre de la nueva rama>", se crea una nueva rama.
