@@ -55,7 +55,6 @@ GIT
 	Cuando se termino de escribir el mensaje, GIT efectivizará los cambios.
 	
 7) Eliminando archivos:
-
 	Se realiza con el comando:
 		git rm <nombre del archivo>
 		
